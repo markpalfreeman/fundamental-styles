@@ -10,6 +10,7 @@
     --fd-color-status-3: #999;
     --fd-color-status-4: #ccc;
     --fd-color-text-2: mediumaquamarine;
+    --fd-color-text-5: DodgerBlue; 
 
     --fd-forms-height: 50px;
     --fd-forms-height-compact: 25px;
@@ -25,4 +26,5 @@
     --fd-color-background-4: rgb(51%, 6%, 2%);
     --fd-color-alert: rgb(84%, 13%, 91%);
     --fd-color-background-5: rgb(13%, 71%, 90%);
+    /* --fd-counter-background-color: pink; */
 }

@@ -41,6 +41,7 @@ $block: #{$fd-namespace}-tabs;
       padding: 0 $fd-tabs-link-padding-x;
   }
   &__link {
+    text-decoration: none;
     display: block;
     position: relative;
     padding: $fd-tabs-link-padding-y 0;
